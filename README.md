@@ -24,7 +24,7 @@ In the future, I would like to find the time to pair these maps with route revie
 
 ## The Story Behind the Maps
 
-I was inspired by create these maps by a comment exchange on [a Reddit post](https://www.reddit.com/r/chibike/comments/ssl9m1/first_draft_of_a_ctartastyle_chicagoland_trail_map/) about planning bike rides around the Chicago region.  I had been struggling to come up with a way to publish my favorite routes, so I thought that creating a map of the area's trails would a fun short-term project while I figured out how.
+I was inspired by create these maps by a comment exchange on [a Reddit post](https://www.reddit.com/r/chibike/comments/snqnli/share_your_long_ride_plans/) about planning bike rides around the Chicago region.  I had been struggling to come up with a way to publish my favorite routes, so I thought that creating a map of the area's trails would a fun short-term project while I figured out how.
 
 The positive reception to my Chicago map -- along with the observation that it highlighted gaps in the region's bike infrastructure -- led me to build another map for the NYC area, where the COVID-19 pandemic unfortunately limited me to just a few months of riding.  However, meeting the wonderful people in [Cycling Fanatics New York](http://cfny.cc/) gave me enough opportunities to learn the lay of the land, even after relocating away (many thanks!).
 
