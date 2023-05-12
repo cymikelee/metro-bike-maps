@@ -1,5 +1,14 @@
 ### Chicagoland
 
+v2.0.0 (11 May 2023)
+--------------------
+* Replaced underlay with RTA 6-county map (including roads, rail, water, forest preserves, and grid)
+* Expanded/realigned colored lines to more extensive "radial" route networks
+* Increased resolution and detail on all lines (colored and regional)
+* Added multiple trail surface and road types to all lines
+* Added detailed legend and reference tables for MTB, camping, trails, forest preserves, and transit connections
+* Renamed from "Chicago Bike Trail System Map" to "Chicagoland Regional Bike Map" to reflect change in focus
+
 v1.0.0 (14 Feb 2022)
 --------------------
 * Initial release
