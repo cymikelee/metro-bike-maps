@@ -1,6 +1,10 @@
 ### Chicagoland
 
-v2.0.0 (11 May 2023)
+v2.0.1 (11 May 2023)
+--------------------
+* Added the Weber Spur as a brown line spur route
+
+v2.0.0 (10 May 2023)
 --------------------
 * Replaced underlay with RTA 6-county map (including roads, rail, water, forest preserves, and grid)
 * Expanded/realigned colored lines to more extensive "radial" route networks
