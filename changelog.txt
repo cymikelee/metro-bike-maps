@@ -1,5 +1,14 @@
 ### Chicagoland
 
+v2.0.2 (15 May 2023)
+--------------------
+* Added Ringwood waypoint to the Prairie Trail
+* Fixed Hebron & Prairie Trail surface types north of Ringwood
+* Rerouted Chain O'Lakes spur to mellower residential streets
+* Added mellower Blue Line route from Buffalo Creek to Deer Park
+* Added Kennicott + Roselle bike paths to Blue Line
+* Added Arlington Park connection to new waypoint
+
 v2.0.1 (11 May 2023)
 --------------------
 * Added the Weber Spur as a brown line spur route
